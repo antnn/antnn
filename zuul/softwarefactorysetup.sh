@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 firewall-cmd --add-service=http --add-service=https
 firewall-cmd --add-port=29418/tcp
 firewall-cmd --runtime-to-permanent
