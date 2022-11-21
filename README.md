@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antnn, developer
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: anton@valishin.ru, with [PGP KEY](https://github.com/antnn/antnn/blob/main/Anton%20Valishin.pgp)
+- 📫 How to reach me: anton@valishin.ru, with [PGP KEY](https://github.com/antnn/antnn/blob/main/Anton%20Valishin.pgp) encryption
 - 🎥 [Youtube channel](https://www.youtube.com/@valishinav)
 
 <!---
