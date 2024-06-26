@@ -11,6 +11,17 @@ function extractAllInfo() {
   }
   return results;
 }
+var allResults = extractAllInfo();
+console.log(allResults);
 
-// Call the function and log the result
-var allResults = extractA
+
+function Words() {
+    let html = document.body.innerHTML;
+    html = html.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
+    let text = html.replace(/<[^>]*>/g, '');
+    let words = text.trim().split(/\s+/);
+    words = words.filter(word => word.length > 3);
+    return words
+}
+console.log(`Number of words longer than 3 characters: ${Words().length}`);
+
