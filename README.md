@@ -11,7 +11,7 @@ Latvia unilaterally deregistered me as a resident (to nowhere) when I was still 
 My legal status remained unresolved, suspended between the bureaucracies of Russia and Latvia.  <br>
 Neither country acknowledged my right to belong, freedom of movement and return to home country ([UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights)), leaving me in a complex legal gray area, in undetermined state. <br>
 
-It took almost two decades of persistent effort and struggle to resolve the issue, by writing a bunch of letters (applications) to which I receive identical useless responses. <br>
+It took almost two decades of persistent effort and struggle (sometimes, literally, living on the streets) to resolve the issue, by writing a bunch of letters (applications) to which I receive identical useless responses. <br>
 
 See more about [Statelessness UNHCR](https://www.unhcr.org/ibelong/about-statelessness/) <br> 
 and https://www.statelessness.eu/ <br>
